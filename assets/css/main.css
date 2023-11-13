@@ -154,7 +154,7 @@ input, select, textarea {
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #61686b;
-		font-weight: 800;
+		font-weight: 700;
 		letter-spacing: 0.075em;
 		line-height: 1em;
 		margin: 0 0 1em 0;
@@ -2335,7 +2335,7 @@ input, select, textarea {
 
 	ul.icons-grid {
 		list-style: none;
-		padding: 0;
+		padding: 1;
 		position: relative;
 	}
 
